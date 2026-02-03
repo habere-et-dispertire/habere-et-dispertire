@@ -17,6 +17,7 @@
 <a href="https://exercism.org/tracks/raku/exercises/killer-sudoku-helper">    <img alt="killer sudoku helper"     src="exercism/missing.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/largest-series-product">  <img alt="largest series product"   src="exercism/largest-series-product.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/matching-brackets">       <img alt="matching brackets"        src="exercism/matching-brackets.svg"></a>
+<a href="https://exercism.org/tracks/raku/exercises/matrix">                  <img alt="matrix"                   src="exercism/matrix.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/micro-blog">              <img alt="micro-blog"               src="exercism/micro-blog.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/nth-prime">               <img alt="nth prime"                src="exercism/nth-prime.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/ocr-numbers">             <img alt="OCR numbers"              src="exercism/ocr-numbers.svg"></a>
