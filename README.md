@@ -36,7 +36,7 @@
 <a href="https://exercism.org/tracks/raku/exercises/rotational-cipher">       <img alt="rotational cipher"        src="exercism/rotational-cipher.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/run-length-encoding">     <img alt="run length encoding"      src="exercism/run-length-encoding.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/saddle-points">           <img alt="saddle points"            src="exercism/saddle-points.svg"></a>
-<a href="https://exercism.org/tracks/raku/exercises/say">                     <img alt="secret handshake"         src="exercism/say.svg"></a>
+<a href="https://exercism.org/tracks/raku/exercises/say">                     <img alt="say"                      src="exercism/say.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/secret-handshake">        <img alt="secret handshake"         src="exercism/secret-handshake.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/series">                  <img alt="series"                   src="exercism/series.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/sieve">                   <img alt="sieve"                    src="exercism/sieve.svg"></a>
