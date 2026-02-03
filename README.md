@@ -8,7 +8,7 @@
 <a href="https://exercism.org/tracks/raku/exercises/darts">                   <img alt="darts"                    src="exercism/darts.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/eliuds-eggs">             <img alt="eliud's eggs"             src="exercism/eliuds-eggs.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/flatten-array">           <img alt="flatten array"            src="exercism/flatten-array.svg"></a>
-<a href="https://exercism.org/tracks/raku/exercises/flower-field">            <img alt="flower field"             src="https://github.com/habere-et-dispertire/website-icons/blob/d78f32651a3cd3b98dee56351575c565c0263808/exercises/flower-field.svg"></a>
+<a href="https://exercism.org/tracks/raku/exercises/flower-field">            <img alt="flower field"             src="exercism/missing.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/gigasecond">              <img alt="gigasecond"               src="exercism/gigasecond.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/high-scores">             <img alt="high-scores"              src="exercism/high-scores.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/house">                   <img alt="house"                    src="exercism/house.svg"></a>
