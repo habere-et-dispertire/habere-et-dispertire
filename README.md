@@ -1,5 +1,4 @@
-<img alt="affine cipher"            src="exercism/affine-cipher.svg">
-<img alt="armstrong numbers"        src="exercism/armstrong-numbers.svg">
+<img alt="affine cipher"            src="exercism/affine-cipher.svg"><img alt="armstrong numbers"        src="exercism/armstrong-numbers.svg">
 <img alt="complex-numbers"          src="exercism/complex-numbers.svg">
 <img alt="custom set"               src="exercism/custom-set.svg">
 <img alt="darts"                    src="exercism/darts.svg">
