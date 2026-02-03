@@ -24,7 +24,7 @@
 <a href="https://exercism.org/tracks/raku/exercises/perfect-numbers">         <img alt="perfect numbers"          src="exercism/perfect-numbers.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/prime-factors">           <img alt="prime factors"            src="exercism/prime-factors.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/proverb">                 <img alt="proverb"                  src="exercism/proverb.svg"></a>
-<a href="https://exercism.org/tracks/raku/exercises/pythagorean-tripley">     <img alt="Pythagorean triplet"      src="exercism/pythagorean-triplet.svg"></a>
+<a href="https://exercism.org/tracks/raku/exercises/pythagorean-triplet">     <img alt="Pythagorean triplet"      src="exercism/pythagorean-triplet.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/queen-attack">            <img alt="queen attack"             src="exercism/queen-attack.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/rail-fence-cipher">       <img alt="rail fence cipher"        src="exercism/rail-fence-cipher.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/rational-numbers">        <img alt="rational-numbers"         src="exercism/rational-numbers.svg"></a>
