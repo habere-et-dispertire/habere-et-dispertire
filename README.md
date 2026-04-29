@@ -1,4 +1,5 @@
-# back end — 48 raku exercises
+# raku back end
+## implementation of 50 exercises
 
 <a href="https://exercism.org/tracks/raku/exercises/affine-cipher">           <img alt="affine cipher"            src="exercism/affine-cipher.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/armstrong-numbers">       <img alt="armstrong numbers"        src="exercism/armstrong-numbers.svg"></a>
@@ -40,6 +41,7 @@
 <a href="https://exercism.org/tracks/raku/exercises/secret-handshake">        <img alt="secret handshake"         src="exercism/secret-handshake.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/series">                  <img alt="series"                   src="exercism/series.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/sieve">                   <img alt="sieve"                    src="exercism/sieve.svg"></a>
+<a href="https://exercism.org/tracks/raku/exercises/spiral-matrix">           <img alt="spiral-matrix"            src="exercism/spiral-matrix.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/square-root">             <img alt="square root"              src="exercism/square-root.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/state-of-tic-tac-toe">    <img alt="state of tic-tac-toe"     src="exercism/state-of-tic-tac-toe.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/sublist">                 <img alt="sublist"                  src="exercism/sublist.svg"></a>
