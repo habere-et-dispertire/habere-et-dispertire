@@ -1,5 +1,8 @@
-# raku back end on exercism.org
-## implementation of 50 exercises
+# Exercism authoring
+## Implementation of 50 exercises
+~~~~raku
+raku => 49, perl => 1
+~~~~
 
 <a href="https://exercism.org/tracks/raku/exercises/affine-cipher">           <img alt="affine cipher"            src="exercism/affine-cipher.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/armstrong-numbers">       <img alt="armstrong numbers"        src="exercism/armstrong-numbers.svg"></a>
@@ -27,6 +30,7 @@
 <a href="https://exercism.org/tracks/raku/exercises/prime-factors">           <img alt="prime factors"            src="exercism/prime-factors.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/proverb">                 <img alt="proverb"                  src="exercism/proverb.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/pythagorean-triplet">     <img alt="Pythagorean triplet"      src="exercism/pythagorean-triplet.svg"></a>
+<a href="https://exercism.org/tracks/perl5/exercises/pythagorean-triplet">    <img alt="Pythagorean triplet"      src="exercism/pythagorean-triplet.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/queen-attack">            <img alt="queen attack"             src="exercism/queen-attack.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/rail-fence-cipher">       <img alt="rail fence cipher"        src="exercism/rail-fence-cipher.svg"></a>
 <a href="https://exercism.org/tracks/raku/exercises/rational-numbers">        <img alt="rational-numbers"         src="exercism/rational-numbers.svg"></a>
